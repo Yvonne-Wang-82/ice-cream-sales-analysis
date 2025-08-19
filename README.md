@@ -5,8 +5,8 @@ This repository contains my final project for a Data Programming course at the U
 ## Repository Contents
 - `project.ipynb` – Jupyter Notebook with full analysis and visualizations
 - `data/` – Folder containing raw CSV data (flavor usage, customers, weather)
-- `Frost_Bite_Sales_Analysis.pdf` – Slides used for presenting results with classmates
-- `project.html` – Exported HTML version of the notebook
+- `results/Frost_Bite_Sales_Analysis.pdf` – Slides used for presenting results with classmates
+- `results/project.html` – Exported HTML version of the notebook
 
 ## Research Questions
 1. How does the weather or temperature affect ice cream usage and the number of customers?
