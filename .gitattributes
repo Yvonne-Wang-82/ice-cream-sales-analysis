@@ -1,0 +1,5 @@
+# Ignore non-Python files for language statistics
+*.html linguist-vendored
+*.pdf linguist-vendored
+*.pptx linguist-vendored
+*.csv linguist-vendored
